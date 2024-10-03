@@ -1,8 +1,8 @@
 # Project-EDA-Webscraper-for-E-commerce
+Project Objectives:
 
-This is an app that tracks the most expensive to least expensive gaming laptop in flipkart and extracting it into a dataframe to be analyze using plotly.
-
-
+Implement a web scraper using Selenium for extracting product price information.
+Implement EDA methods using the data scrapped.
 
 # Technology Used
 * Python Programming language that lets you work quickly and integrate systems more effectively.
@@ -12,4 +12,4 @@ This is an app that tracks the most expensive to least expensive gaming laptop i
 
 # How to run the app
 
-You can open it with any IDE program.
+You can open it with any IDE program but it is highly advice to use VS Code.
